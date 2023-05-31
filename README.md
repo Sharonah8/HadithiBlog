@@ -1,6 +1,6 @@
-# Vilego Blogs
+# Hadithi Blogs
 
-[Live link](https://vilegoblogs.netlify.app/ "Vilego Blogs")
+[Live link](https://hadithiblogs.netlify.app/ "Hadithi Blogs")
 
 # Table of Contents
 
@@ -14,18 +14,18 @@
 6. [License](#license)
 
 # Description
-Vilego Blogs is a customizable blogging app that helps a user create blop posts and articles that other users can interact with in a safe community.
+Hadithi Blogs is a customizable blogging app that helps a user create blop posts and articles that other users can interact with in a safe community.
 # Screenshots
-![Screenshot 1](https://github.com/Edward-ochieng/vilego-blogs-2/blob/main/src/images/screenshot-1.png)
+![Screenshot 1](https://github.com/Edward-ochieng/hadithi-blogs-2/blob/main/src/images/screenshot-1.png)
 
-![Screenshot 2](https://github.com/Edward-ochieng/vilego-blogs-2/blob/main/src/images/screenshot-2.png)
+![Screenshot 2](https://github.com/Edward-ochieng/hadithi-blogs-2/blob/main/src/images/screenshot-2.png)
 
-![Screenshot 3](https://github.com/Edward-ochieng/vilego-blogs-2/blob/main/src/images/screenshot-3.png)
+![Screenshot 3](https://github.com/Edward-ochieng/hadithi-blogs-2/blob/main/src/images/screenshot-3.png)
 # Setup and Installation
 
 ## Setting up the Backend
 
-- Install [Rails Backend API](https://github.com/Edward-ochieng/Blog-app-backend)
+- Install [Rails Backend API](https://github.com/Sharonah/Blog-app-backend)
 
 ## Setting up the Frontend
 
@@ -52,8 +52,8 @@ npm i -g npm@latest
 ### Install Dependencies
 - Clone this repository and change directory into the folder using the following commands:
 ```
-$ git clone git@github.com:Edward-ochieng/vilego-blogs-2.git
-$ cd vilego-blogs-2
+$ git clone git@github.com:Sharonah8/HadithiBlog.git
+$ cd hadithi-blogs-2-main
 ```
 - Run the following command to install the desired Node dependencies:
 
@@ -74,12 +74,8 @@ $ npm start
 
 # Collaborators
 - [Allan Ngugi]()
-- [Edward Ochieng](https://github.com/Edward-ochieng)
-- [Joseph Mwinzi](https://github.com/Mwinzi)
-- [Joseph Njenga](https://github.com/JosephNjeruNjenga)
-- [Nicholas Ndikwe](https://github.com/k-l-a-u-s)
-- [Rebecca Njeri](https://github.com/rebecca-2022)
-- [Timothy Lenku](https://github.com/esipil)
+- [Sharon Nyamongo](https://github.com/Sharonah8)
+
 
 # License
-This project is under [MIT](https://github.com/Edward-ochieng/vilego-blogs-2/blob/main/LICENSE.txt) license.
+This project is under [MIT] license.
