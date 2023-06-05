@@ -1,6 +1,6 @@
 # Hadithi Blogs
 
-[Live link](https://hadithiblogs.netlify.app/ "Hadithi Blogs")
+[Live_link](https://vilegoblogs.netlify.app/ "Blogs")
 
 # Table of Contents
 
