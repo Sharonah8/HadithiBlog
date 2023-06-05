@@ -73,7 +73,6 @@ $ npm start
 - TailWind
 
 # Collaborators
-- [Allan Ngugi]()
 - [Sharon Nyamongo](https://github.com/Sharonah8)
 
 
